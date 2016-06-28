@@ -1,0 +1,25 @@
+{
+    "name": "rmb-toupper",
+    "version": "1.0.0",
+    "description": "人民币数字转大写",
+    "main": "index.js",
+    "scripts": {
+        "rmb": "node index.js"
+    },
+    "bin": {
+        "rmb": "index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/lmnsg/RMBtoUpper.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/lmnsg/RMBtoUpper/issues"
+    },
+    "homepage": "https://github.com/lmnsg/RMBtoUpper#readme",
+    "devDependencies": {
+        "commander": "^2.9.0"
+    }
+}
