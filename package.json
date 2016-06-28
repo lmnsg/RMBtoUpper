@@ -19,7 +19,7 @@
         "url": "https://github.com/lmnsg/RMBtoUpper/issues"
     },
     "homepage": "https://github.com/lmnsg/RMBtoUpper#readme",
-    "devDependencies": {
+    "dependencies": {
         "commander": "^2.9.0"
     }
 }
