@@ -13,8 +13,8 @@
         "type": "git",
         "url": "git+https://github.com/lmnsg/RMBtoUpper.git"
     },
-    "author": "",
-    "license": "ISC",
+    "author": "limengnan",
+    "license": "MIT",
     "bugs": {
         "url": "https://github.com/lmnsg/RMBtoUpper/issues"
     },
