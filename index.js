@@ -5,11 +5,11 @@ const program = require('commander')
 program.parse(process.argv)
 
 const rmb = program.args.join('')
-const map = ['壹','贰', '叁', '肆', '伍', '陆', '柒', '捌', '玖', '拾']
+const map = ['零', '壹', '贰', '叁', '肆', '伍', '陆', '柒', '捌', '玖', '拾']
 
 let target = []
 for (const it of rmb) {
-	target.push(map[it - 1])
+	target.push(map[it])
 }
 
 console.log(target.join(''));
